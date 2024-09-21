@@ -1,0 +1,14 @@
+La idea es que cada uno hagamos lo siguiente:
+
+	1.- Añadir alguna línea al main, que esta en el archivo "PruebaGit/prueba/Prueba.java":
+		poner lo que os de la gana, es para ver si nos manejamos con git. Yo dejaré un 
+		un ejemplo.
+		
+	2.- Crear un nuevo fichero y escribir algún código sencillito (una línea suficiente).
+
+
+NOTAS RELEVANTES:
+	- En las cosas que añadais poner vuestro nombre o algo para que se os pueda identificar.
+	
+	- Al hacer commit, poner una descripción clara de lo que habeis hecho. Ejemplo:
+			"Modificación del main y creación del fichero 'Javana.java'"
