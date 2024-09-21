@@ -6,7 +6,7 @@ public class Prueba {
 		
 		// EJEMPLO
 		
-		// ARRONDO:
+		// Arrondo:
 		System.out.println("arrondo ha estado aquí");
 	}
 }
